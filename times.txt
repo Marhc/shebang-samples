@@ -99,3 +99,8 @@ Hello, World!
 Hello, World!
 ./hello.go  0,00s user 0,00s system 106% cpu 0,008 total
 
+╭─ ~/Projetos/Lab_Scripts
+╰─❯ time ./hello.dart
+Hello, World!
+./hello.dart  0,24s user 0,10s system 128% cpu 0,260 total
+
