@@ -1,0 +1,101 @@
+╭─ ~/Projetos/Lab_Scripts                                                      
+╰─❯ time ./hello.php                         
+Hello, World!
+Hello, World!
+Hello, World!
+./hello.php  0,01s user 0,02s system 96% cpu 0,026 total
+
+╭─ ~/Projetos/Lab_Scripts                                                      
+╰─❯ time ./hello.kts                               
+Hello, World!
+./hello.kts  8,51s user 0,30s system 288% cpu 3,059 total
+
+╭─ ~/Projetos/Lab_Scripts                                               took 3s
+╰─❯ time ./hello.csx                                  
+Hello, World!
+./hello.csx  0,49s user 0,06s system 100% cpu 0,546 total
+
+╭─ ~/Projetos/Lab_Scripts                                                      
+╰─❯ time ./hello.cs 
+Hello, World!
+./hello.cs  0,23s user 0,02s system 95% cpu 0,260 total
+
+╭─ ~/Projetos/Lab_Scripts                                                      
+╰─❯ time ./hello.ps1                            
+Hello, World!
+./hello.ps1  0,38s user 0,07s system 100% cpu 0,440 total
+
+╭─ ~/Projetos/Lab_Scripts                                                      
+╰─❯ time ./hello.rb 
+Hello, World!
+Hello, World!
+./hello.rb  0,06s user 0,01s system 98% cpu 0,068 total
+
+╭─ ~/Projetos/Lab_Scripts                                                      
+╰─❯ time ./hello.sh
+Hello, World!
+Hello, World!
+./hello.sh  0,00s user 0,00s system 87% cpu 0,001 total
+
+╭─ ~/Projetos/Lab_Scripts                                                      
+╰─❯ time ./hello.cpp
+Hello, World!
+Hello, World!
+Hello, World!
+./hello.cpp  0,17s user 0,03s system 101% cpu 0,198 total
+
+╭─ ~/Projetos/Lab_Scripts                                                      
+╰─❯ time ./hello.js 
+Hello, World!
+./hello.js  0,05s user 0,01s system 101% cpu 0,060 total
+
+╭─ ~/Projetos/Lab_Scripts                                                      
+╰─❯ time ./hello.ts
+Hello, World!
+./hello.ts  1,73s user 0,08s system 182% cpu 0,993 total
+
+╭─ ~/Projetos/Lab_Scripts                                                      
+╰─❯ time ./hello.pl 
+Hello, World!
+./hello.pl  0,00s user 0,00s system 89% cpu 0,007 total
+
+╭─ ~/Projetos/Lab_Scripts                                                      
+╰─❯ time ./hello.py
+Hello, World!
+./hello.py  0,03s user 0,02s system 97% cpu 0,048 total
+
+╭─ ~/Projetos/Lab_Scripts                                                      
+╰─❯ time ./hello.groovy 
+Hello, World!
+./hello.groovy  0,93s user 0,06s system 224% cpu 0,441 total
+
+╭─ ~/Projetos/Lab_Scripts                                                      
+╰─❯ nvm use v16.13.2
+Now using node v16.13.2 (npm v8.1.2)
+
+╭─ ~/Projetos/Lab_Scripts                                              16.13.2
+╰─❯ time ./hello.mjs   
+Hello, World!
+./hello.mjs  0,23s user 0,02s system 119% cpu 0,211 total
+
+╭─ ~/Projetos/Lab_Scripts                                                      
+╰─❯ time ./hello.jsh
+Hello, World!
+./hello.jsh  2,72s user 0,10s system 225% cpu 1,255 total
+
+╭─ ~/Projetos/Lab_Scripts                                                      
+╰─❯ time ./hello.java  
+[jbang] Building jar...
+Hello, World!
+./hello.java  2,71s user 0,17s system 160% cpu 1,792 total
+
+╭─ ~/Projetos/Lab_Scripts                                                      
+╰─❯ time ./hello.go
+Hello, World!
+./hello.go  0,24s user 0,14s system 191% cpu 0,200 total
+
+╭─ ~/Projetos/Lab_Scripts                                                      
+╰─❯ time ./hello.go
+Hello, World!
+./hello.go  0,00s user 0,00s system 106% cpu 0,008 total
+
