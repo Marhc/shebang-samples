@@ -1,5 +1,7 @@
 #! /bin/bash
 
-echo Hello, World!
-printf 'Hello, World!\n'
+source ./libs/lib.sh
+
+echo $(hello "from Bash")
+printf "$(hello "from Bash")\n"
 
