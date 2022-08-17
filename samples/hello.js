@@ -1,4 +1,6 @@
 #! /usr/bin/env node
 
-console.log("Hello, World!")
+const { hello } = require("./libs/lib")
+
+console.log(hello("from Node.js"))
 

@@ -1,4 +1,6 @@
 #! /usr/bin/env ts-node
 
-console.log("Hello, World!")
+import { hello } from "./libs/lib"
+
+console.log(hello("from TS Node"))
 
