@@ -2,6 +2,7 @@
 '''':
 exec groovy "$0" 2>/dev/null
 '''
+import static libs.Lib.hello
 
-println "Hello, World!"
+println hello("from Groovy")
 
