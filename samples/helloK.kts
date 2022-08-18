@@ -1,3 +1,4 @@
-#!/usr/bin/env kotlin
+#!/usr/bin/env kscript
 
 println("Hello, World!")
+
