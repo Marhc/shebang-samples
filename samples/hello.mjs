@@ -1,4 +1,4 @@
-#! /usr/bin/env zx
+#!/usr/bin/env zx
 
 const { hello } = require("./libs/lib")
 

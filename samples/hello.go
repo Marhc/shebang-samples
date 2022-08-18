@@ -1,4 +1,4 @@
-#! /usr/bin/env gorun
+#!/usr/bin/env gorun
 package main
 
 import "fmt"

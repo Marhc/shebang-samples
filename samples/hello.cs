@@ -1,4 +1,4 @@
-#! /usr/bin/env csharp 
+#!/usr/bin/env csharp 
 
 System.Console.WriteLine("Hello, World!")
 

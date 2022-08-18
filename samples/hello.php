@@ -1,4 +1,4 @@
-#! /usr/bin/env php
+#!/usr/bin/env php
 <?php
 	echo "Hello, World!\n";
 	printf("Hello, World!\n");
