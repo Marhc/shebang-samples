@@ -1,3 +1,5 @@
-#!/usr/bin/env kotlin
+#!/usr/bin/env kscript
 
-println("Hello, World!")
+//INCLUDE libs/lib.kts
+
+println(hello("from Kotlin"))
