@@ -1,4 +1,5 @@
 #!/usr/bin/env csi
 
-System.Console.WriteLine("Hello, World!")
+#load "libs/lib.csx"
 
+System.Console.WriteLine(Hello("from C#"));
